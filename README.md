@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Ferriol-blip
 - 🌱 I’m currently learning Android with Kotlin!
-- Bitbucket: https://bitbucket.org/Pablo_Ferriol/
